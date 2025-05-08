@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
 h1 {
     margin-top: 30vh;
     text-align: center;
@@ -8,4 +10,8 @@ h1 {
 .complaint {
     width: 17vw;
     height: 17vh;
+}
+.complaint p {
+    font-family: "Roboto Flex", sans-serif;
+    font-size: 2vh;
 }
