@@ -8,6 +8,8 @@ h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .complaint {
+    font-family: "Roboto Flex", sans-serif;
+    font-size: 2vh;
     width: 17vw;
     height: 17vh;
 }
