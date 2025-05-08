@@ -5,3 +5,7 @@ h1 {
     font-size: 10vh;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.complaint {
+    width: 17vw;
+    height: 17vh;
+}
